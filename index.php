@@ -134,7 +134,7 @@ $picr = "footr.png";
     <h1 class="logindesign1 text-center text-shadow"><span class="u">C</span>o<span class="u">l</span>o<span class="u">r</span></h1>
         <div class=" d-flex justify-content-around">
         <div class="card shadow-lg " style="width: 18rem;">
-            <img src="palate/color1.jpg" style="height:200px;"class="card-img-top" alt="...">
+            <img src="color1.jpg" style="height:200px;"class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -142,7 +142,7 @@ $picr = "footr.png";
             </div>
           </div>
         <div class="card shadow-lg card-hover" style="width: 18rem;">
-            <img src="palate/color2.jpg"style="height:200px;" class="card-img-top" alt="...">
+            <img src="color2.jpg"style="height:200px;" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -150,7 +150,7 @@ $picr = "footr.png";
             </div>
           </div>
         <div class="card shadow-lg" style="width: 18rem;">
-            <img src="palate/color3.jpg"style="height:200px;" class="card-img-top" alt="...">
+            <img src="color3.jpg"style="height:200px;" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -158,7 +158,7 @@ $picr = "footr.png";
             </div>
           </div>
         <div class="card shadow-lg" style="width: 18rem;">
-            <img src="palate/color4.jpg" style="height:200px;" class="card-img-top" alt="...">
+            <img src="color4.jpg" style="height:200px;" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -168,7 +168,7 @@ $picr = "footr.png";
     </div><br>
     <div class=" d-flex justify-content-around">
         <div class="card shadow-lg " style="width: 18rem;">
-            <img src="palate/color5.jpg"style="height:200px;" class="card-img-top" alt="...">
+            <img src="color5.jpg"style="height:200px;" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -176,7 +176,7 @@ $picr = "footr.png";
             </div>
           </div>
         <div class="card shadow-lg" style="width: 18rem;">
-            <img src="palate/color6.jpg" style="height:200px;"class="card-img-top" alt="...">
+            <img src="color6.jpg" style="height:200px;"class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -184,7 +184,7 @@ $picr = "footr.png";
             </div>
           </div>
         <div class="card shadow-lg" style="width: 18rem;">
-            <img src="palate/color7.jpg"style="height:200px;" class="card-img-top" alt="...">
+            <img src="color7.jpg"style="height:200px;" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -193,7 +193,7 @@ $picr = "footr.png";
           </div>
 
         <div class="card shadow-lg" style="width: 18rem;">
-            <img src="palate/color8.jpg" style="height:200px;"class="card-img-top" alt="...">
+            <img src="color8.jpg" style="height:200px;"class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -208,7 +208,7 @@ $picr = "footr.png";
         <h1 class="logindesign1 text-center text-shadow"> Brush </h1>
         <div class=" d-flex justify-content-around">
         <div class="card shadow-lg " style="width: 18rem;">
-            <img src="brush/brush1.jpg" class="card-img-top" alt="...">
+            <img src="brush1.jpg" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -217,7 +217,7 @@ $picr = "footr.png";
             </div>
           </div>
         <div class="card shadow-lg" style="width: 18rem;">
-            <img src="brush/brush4.jpg" style="height:200px;"class="card-img-top" alt="...">
+            <img src="brush4.jpg" style="height:200px;"class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -225,7 +225,7 @@ $picr = "footr.png";
             </div>
           </div>
         <div class="card shadow-lg" style="width: 18rem;">
-            <img src="brush/brush3.jpg"style="height:200px;" class="card-img-top" alt="...">
+            <img src="brush3.jpg"style="height:200px;" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -233,7 +233,7 @@ $picr = "footr.png";
             </div>
           </div>
         <div class="card shadow-lg" style="width: 18rem;">
-            <img src="brush/brush4.jpg"style="height:200px;" class="card-img-top" alt="...">
+            <img src="brush4.jpg"style="height:200px;" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -243,7 +243,7 @@ $picr = "footr.png";
     </div><br>
     <div class=" d-flex justify-content-around">
         <div class="card shadow-lg " style="width: 18rem;">
-            <img src="brush/brush5.png" style="height:200px;"class="card-img-top" alt="...">
+            <img src="brush5.png" style="height:200px;"class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -251,7 +251,7 @@ $picr = "footr.png";
             </div>
           </div>
         <div class="card shadow-lg" style="width: 18rem;">
-            <img src="brush/brush4.jpg"style="height:200px;" class="card-img-top" alt="...">
+            <img src="brush4.jpg"style="height:200px;" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -259,7 +259,7 @@ $picr = "footr.png";
             </div>
           </div>
         <div class="card shadow-lg" style="width: 18rem;">
-            <img src="brush/brush6.jpg"style="height:200px;" class="card-img-top" alt="...">
+            <img src="brush6.jpg"style="height:200px;" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -268,7 +268,7 @@ $picr = "footr.png";
           </div>
 
         <div class="card shadow-lg" style="width: 18rem;">
-            <img src="brush/brush2.jpg"style="height:200px;" class="card-img-top" alt="...">
+            <img src="brush2.jpg"style="height:200px;" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -285,7 +285,7 @@ $picr = "footr.png";
     <h1 class="logindesign1 text-center text-shadow"> Co<span class="u">l</span>or </h1>
         <div class=" d-flex justify-content-around">
         <div class="card shadow-lg " style="width: 18rem;">
-            <img src="palate/color1.jpg" style="height:200px;"class="card-img-top" alt="...">
+            <img src="color1.jpg" style="height:200px;"class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -293,7 +293,7 @@ $picr = "footr.png";
             </div>
           </div>
         <div class="card shadow-lg card-hover" style="width: 18rem;">
-            <img src="palate/color2.jpg"style="height:200px;" class="card-img-top" alt="...">
+            <img src="color2.jpg"style="height:200px;" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -301,7 +301,7 @@ $picr = "footr.png";
             </div>
           </div>
         <div class="card shadow-lg" style="width: 18rem;">
-            <img src="palate/color3.jpg"style="height:200px;" class="card-img-top" alt="...">
+            <img src="color3.jpg"style="height:200px;" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -309,7 +309,7 @@ $picr = "footr.png";
             </div>
           </div>
         <div class="card shadow-lg" style="width: 18rem;">
-            <img src="palate/color4.jpg" style="height:200px;" class="card-img-top" alt="...">
+            <img src="color4.jpg" style="height:200px;" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -319,7 +319,7 @@ $picr = "footr.png";
     </div><br>
     <div class=" d-flex justify-content-around">
         <div class="card shadow-lg " style="width: 18rem;">
-            <img src="palate/color5.jpg"style="height:200px;" class="card-img-top" alt="...">
+            <img src="color5.jpg"style="height:200px;" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -327,7 +327,7 @@ $picr = "footr.png";
             </div>
           </div>
         <div class="card shadow-lg" style="width: 18rem;">
-            <img src="palate/color6.jpg" style="height:200px;"class="card-img-top" alt="...">
+            <img src="color6.jpg" style="height:200px;"class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -335,7 +335,7 @@ $picr = "footr.png";
             </div>
           </div>
         <div class="card shadow-lg" style="width: 18rem;">
-            <img src="palate/color7.jpg"style="height:200px;" class="card-img-top" alt="...">
+            <img src="color7.jpg"style="height:200px;" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -344,7 +344,7 @@ $picr = "footr.png";
           </div>
 
         <div class="card shadow-lg" style="width: 18rem;">
-            <img src="palate/color8.jpg" style="height:200px;"class="card-img-top" alt="...">
+            <img src="color8.jpg" style="height:200px;"class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -387,7 +387,7 @@ $picr = "footr.png";
         <div class=" d-flex justify-content-between">
             <div class="d-flex justify-content-between ">
                 <div class="m mt-4">
-            <img src="brush/combo brush3.jpg">
+            <img src="combo brush3.jpg">
     </div><br>
     <div>
         <h1 class="logindesign mt-4 ">Some quick example text to build on the card title and make up<br>Some quick example text to build on the card title and make up<br>Some quick example text to build on the card title and make up<br> the bulk of the card's content.Some quick example text to build on <br>the card title and make up the bulk of the card's content.</h1>
@@ -403,7 +403,7 @@ $picr = "footr.png";
         <div class=" d-flex justify-content-between">
             <div class="d-flex justify-content-between ">
                 <div class="m mt-4">
-            <img src="brush/sale1.jpeg "style="height:200px;width:220px;">
+            <img src="sale1.jpeg "style="height:200px;width:220px;">
     </div><br>
     <div>
         <h1 class="logindesign mt-4 ">Some quick example text to build on the card title and make up<br>Some quick example text to build on the card title and make up<br>Some quick example text to build on the card title and make up<br> the bulk of the card's content.Some quick example text to build on <br>the card title and make up the bulk of the card's content.</h1>
@@ -420,14 +420,14 @@ $picr = "footr.png";
                 <br>
    
     <div class="m mt-4">
-            <img src="brush/sale2.jpeg"style="height:200px;width:320px;">
+            <img src="sale2.jpeg"style="height:200px;width:320px;">
     </div>
 </div>
     </div>
         <div class=" d-flex justify-content-between">
             <div class="d-flex justify-content-between ">
                 <div class="m mt-4">
-            <img src="brush/sale3.jpeg"style="height:200px;width:220px;">
+            <img src="sale3.jpeg"style="height:200px;width:220px;">
     </div><br>
     <div>
         <h1 class="logindesign mt-4" >Some quick example text to build on the card title and make up<br>Some quick example text to build on the card title and make up<br>Some quick example text to build on the card title and make up<br> the bulk of the card's content.Some quick example text to build on <br>the card title and make up the bulk of the card's content.</h1>
